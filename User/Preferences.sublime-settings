@@ -1,0 +1,37 @@
+{
+	"added_words":
+	[
+		"impírica",
+		"centrípeta"
+	],
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html",
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex",
+		}
+	],
+	"bold_folder_labels": true,
+	"dictionary": "Packages/spanish/Spanish.dic",
+	"fade_fold_buttons": true,
+	"font_face": "Inconsolata",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"AutoFileName",
+		"Vintage",
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"word_wrap": true,
+	"theme": "Seti.sublime-theme",
+	"color_scheme": "ayu-mirage.sublime-color-scheme",
+	"auto_complete": true,
+}

@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Alignment",
+		"AlignTab",
+		"AutoFileName",
+		"ayu",
+		"BeautifyLatex",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Duplicate And Increment",
+		"ExpandRegion",
+		"GitGutter",
+		"Inc-Dec-Value",
+		"LaTeX Accents",
+		"LaTeX Blindtext",
+		"LaTeX Word Count",
+		"LaTeX-cwl",
+		"LaTeX-IPA",
+		"LaTeXBox",
+		"LaTeXSmartQuotes",
+		"LaTeXTab",
+		"LaTeXTools",
+		"LaTeXYZ",
+		"LSP-TexLab",
+		"Material Monokai",
+		"Monokai - Spacegray",
+		"MultiEditUtils",
+		"Package Control",
+		"PackageResourceViewer",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SidebarHoverToggle",
+		"SideBarTools",
+		"SublimeLinter",
+		"Theme - Spacegray",
+	],
+	"repositories":
+	[
+		"https://github.com/ketan/BeautifyLatex.git"
+	],
+}
