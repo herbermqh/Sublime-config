@@ -1,5 +1,6 @@
 # Snippets LaTeX
-- pr
+1. pr
+
 ``
 \newproblem{$1}{
   $0
@@ -7,13 +8,17 @@
 	
 }
 ``
-- ali
+
+2. ali
+
 ``
 \begin{align*}
   $0
 \end{align*}
 ``
-- resp
+
+3. resp
+
 ``
 \begin{answer}
   $0
