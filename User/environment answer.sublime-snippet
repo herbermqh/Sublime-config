@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\\begin{answer}
+	$0
+\\end{answer}
+]]></content>
+	<tabTrigger>resp</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>
