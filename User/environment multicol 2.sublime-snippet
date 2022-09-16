@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\\begin{multicols}{2}
+	$0
+\\end{multicols}
+]]></content>
+	<tabTrigger>mul2</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\\begin{itemquestion}
+	\item $0
+\\end{itemquestion}
+]]></content>
+	<tabTrigger>iq</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

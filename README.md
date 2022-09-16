@@ -19,6 +19,24 @@
   $0
 \end{answer}
 ```
+4. iq
+```tex
+\begin{itemquestion}
+  $0
+\end{itemquestion}
+```
+5. mul2
+```tex
+\begin{multicols}{2}
+  $0
+\end{multicols}
+```
+6. mul3
+```tex
+\begin{multicols}{3}
+  $0
+\end{multicols}
+```
 # Key binding LaTeX
 
 ## Pares automáticos
